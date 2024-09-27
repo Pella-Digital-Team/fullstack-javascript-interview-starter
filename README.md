@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pella Fullstack Software Engineer Interview Starter
 
-## Getting Started
+This is a starter project for the Pella Fullstack Software Engineer interview.
 
-First, run the development server:
+## Interested in working at Pella?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Checkout our [careers page](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/requisitions?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000300174433) to see our current openings.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Who is Pella Corporation?
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+As the #1 most-preferred national window and door brand by homeowners across the country, Pella Corporation leads the industry in innovation and design. Founded in 1925, today the Pella Family of Brands encompasses a robust product offering sold and installed through various channels.  We are a growing, privately owned company with 20 manufacturing locations and over 10,000 team members in the U.S. and Canada. Pella is consistently recognized as a great place to work by Newsweek, Forbes and Glassdoor, having most recently been named to America’s Greatest Workplaces for Diversity by Newsweek in 2024. We have also received numerous accolades for innovation and design, including Fast Company’s Most Innovative Manufacturers for 2022 and 2023.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+At Pella, our team cares deeply, learns continuously and achieves results that go beyond. We encourage creative thinking that seeks out and includes diverse perspectives. And we empower you to do the work you’re most proud of — that’s why we offer individualized talent development plans, cross-functional experiences and opportunities for career advancement through personal and professional development.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+With talent just like you, we are imagining, building and fighting for a brighter future for generations to come. Ready to find a career that sparks your passion?
